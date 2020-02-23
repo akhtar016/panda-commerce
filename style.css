@@ -1,3 +1,8 @@
+html{
+    scroll-behavior: smooth;
+    
+}
+
 .orange-bg{
     background-color: #fceae8;
 }
@@ -68,4 +73,24 @@
 
 footer{
     text-align: center;
+}
+
+.go-top-button{
+    
+
+    position: initial;
+    width: 50px;
+    height: 50px;
+    background: #27ae60;
+    bottom: 40px;
+    right: 50px;
+    text-decoration: none;
+    text-align: center;
+    line-height: 50px;
+    color: white;
+    font-size: 22px;
+    
+}
+.top{
+    margin-right: 15px;
 }
