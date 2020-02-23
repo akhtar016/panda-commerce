@@ -41,6 +41,9 @@ html{
 .cat1, .cat2, .cat3 {
     padding: 10px 30px;
     border-radius: 15px;
+   
+   /* new line added here but didn't push */
+    margin-bottom: 5px;
 }
 .categories h1{
     color: white;
