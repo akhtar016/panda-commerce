@@ -53,3 +53,19 @@
     border-top: none;
     background-color: white;
 }
+
+#subscribe{
+    height: 300px;
+}
+
+.btn{
+    margin-top: 10px;
+}
+
+#subscribe h6{
+    color: gray;
+}
+
+footer{
+    text-align: center;
+}
